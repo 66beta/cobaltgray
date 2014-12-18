@@ -1,0 +1,5 @@
+# New in Cobaltgray 1.0.0
+
+* *Spacegray Eighties* + *Cobalt2 sidebar icons*
+
+*GitHub: http://github.com/66beta/cobaltgray
